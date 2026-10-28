@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.App" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">#5E35B1</item>
+        <item name="colorPrimaryDark">#4527A0</item>
+        <item name="colorSecondary">#FF6D00</item>
+    </style>
+    <style name="Theme.App.Alert" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#5E35B1</item>
+        <item name="colorSecondary">#FF6D00</item>
+    </style>
+</resources>
